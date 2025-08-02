@@ -44,7 +44,6 @@ The `SharableSpreadSheet` class provides a full suite of methods for manipulatin
 * `setCell(row, col, str)`: Sets the value of a cell.
 * `exchangeRows(row1, row2)`: Swaps the contents of two rows.
 * `save(fileName)`: Saves the current state of the spreadsheet.
-* ...and many more.
 
 ## Related Projects and Future Enhancements
 
