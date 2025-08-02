@@ -49,6 +49,12 @@ The `SharableSpreadSheet` class provides a full suite of methods for manipulatin
 
 * **Multi-User Simulator:** A console application to stress-test the `SharableSpreadSheet` class with a configurable number of concurrent threads and random operations.
 * **Spreadsheet GUI:** A graphical user interface (GUI) application to visualize and interact with the spreadsheet, demonstrating its functionality in a user-friendly environment.
+## Live Demo and Related Projects
+
+A simple graphical user interface (GUI) application was developed to demonstrate the functionality of the `SharableSpreadSheet` class. This application supports basic operations like loading, saving, and editing cells.
+
+![Spreadsheet Demo](spreadsheetdemo.png)
 
 ---
 **Note:** The codebase for the simulator and GUI projects are available in their respective directories within this repository.
+
